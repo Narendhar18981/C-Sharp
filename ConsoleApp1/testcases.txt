@@ -1,0 +1,32 @@
+Test case 01:-
+
+i/p:-string1=abcdabcabd
+     string2=ab
+
+o/p:-No.of times occurred = 3
+     Index positions = 0 4 7
+----------------------------------
+Test case 02:-
+
+i/p:-string1=abcdabcabd
+     string2=ac
+
+o/p:-No.of times occurred =0
+     Index positions =
+------------------------------------
+Test case 03:-
+
+i/p:-string1=aaaaaaaaaa
+     string2=a
+
+o/p:-No.of times occurred = 10
+     Index positions = 0 1 2 3 4 5 6 7 8 9
+------------------------------------------
+Test case 04:-
+
+i/p:-string1=aaaaaaaaa
+     string2=aa
+
+o/p:-No.of times occurred = 9
+     Index positions = 0 1 2 3 4 5 6 7 8
+-------------------------------------------

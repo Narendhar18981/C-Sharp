@@ -1,0 +1,25 @@
+﻿public static class Abc
+{
+    public static string name = "kdj";
+    public static int age = 10;
+    public static int ab = 20;
+    public static void Print()
+    {
+        Console.WriteLine("hii");
+    }
+    public static string work()
+    {
+        return "Programming";
+    }
+}
+class MainClass
+{
+    static void Main(string[] args)
+    {
+        Abc.work();
+        Abc.age = 21;
+        Abc.name = "SOMEONE NAME";
+        Console.WriteLine(Abc.name + " " + Abc.age + " " + Abc.work());
+        Console.WriteLine(Abc.work());
+    }
+}
