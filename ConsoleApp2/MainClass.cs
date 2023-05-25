@@ -1,17 +1,21 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
-namespace ConsoleApp2
-{   
+namespace FourDigitsGreatestProduct
+{
     public class MainClass
     {
         public static void Main()
         {
             Console.Write("Enter Only Digits As input : ");
             string input = Console.ReadLine();
-            Validate valid = new Validate(); 
+
+            Validation valid = new Validation();
             valid.Is_CheckForCharAndLength(input);
-            FourGreatestProduct Obj=new FourGreatestProduct();
-            Console.WriteLine(Obj.Solution(input));
+
+            FourGreatestProduct Obj = new FourGreatestProduct();
+
+            Console.WriteLine(Obj.GetFourGreatestSolution(input));
         }
     }
 }

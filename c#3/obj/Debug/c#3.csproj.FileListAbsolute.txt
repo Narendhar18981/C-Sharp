@@ -1,8 +1,0 @@
-C:\Users\Narendhar Banala\source\repos\c#3\obj\Debug\c#3.csproj.AssemblyReference.cache
-C:\Users\Narendhar Banala\source\repos\c#3\obj\Debug\c#3.csproj.SuggestedBindingRedirects.cache
-C:\Users\Narendhar Banala\source\repos\c#3\obj\Debug\c#3.csproj.CoreCompileInputs.cache
-C:\Users\Narendhar Banala\source\repos\c#3\bin\Debug\c#3.exe.config
-C:\Users\Narendhar Banala\source\repos\c#3\bin\Debug\c#3.exe
-C:\Users\Narendhar Banala\source\repos\c#3\bin\Debug\c#3.pdb
-C:\Users\Narendhar Banala\source\repos\c#3\obj\Debug\c#3.exe
-C:\Users\Narendhar Banala\source\repos\c#3\obj\Debug\c#3.pdb

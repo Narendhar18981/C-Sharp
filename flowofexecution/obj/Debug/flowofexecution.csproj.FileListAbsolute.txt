@@ -1,8 +1,0 @@
-C:\Users\Narendhar Banala\source\repos\flowofexecution\bin\Debug\flowofexecution.exe.config
-C:\Users\Narendhar Banala\source\repos\flowofexecution\bin\Debug\flowofexecution.exe
-C:\Users\Narendhar Banala\source\repos\flowofexecution\bin\Debug\flowofexecution.pdb
-C:\Users\Narendhar Banala\source\repos\flowofexecution\obj\Debug\flowofexecution.csproj.AssemblyReference.cache
-C:\Users\Narendhar Banala\source\repos\flowofexecution\obj\Debug\flowofexecution.csproj.SuggestedBindingRedirects.cache
-C:\Users\Narendhar Banala\source\repos\flowofexecution\obj\Debug\flowofexecution.csproj.CoreCompileInputs.cache
-C:\Users\Narendhar Banala\source\repos\flowofexecution\obj\Debug\flowofexecution.exe
-C:\Users\Narendhar Banala\source\repos\flowofexecution\obj\Debug\flowofexecution.pdb
