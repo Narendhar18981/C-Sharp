@@ -9,7 +9,7 @@ namespace AdditionOfFloatNumbers
             string input2 = Console.ReadLine();
 
             FloatAddition obj = new FloatAddition();
-            Console.WriteLine(obj.Addition(input1,input2));
+            Console.WriteLine(Math.Round(obj.Addition(input1,input2,out int round),round+1));
         }
     }
 }

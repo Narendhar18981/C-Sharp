@@ -1,0 +1,8 @@
+C:\Users\Narendhar Banala\source\repos\FloatToBinaryAdd\obj\Debug\FloatToBinaryAdd.csproj.AssemblyReference.cache
+C:\Users\Narendhar Banala\source\repos\FloatToBinaryAdd\obj\Debug\FloatToBinaryAdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Narendhar Banala\source\repos\FloatToBinaryAdd\obj\Debug\FloatToBinaryAdd.csproj.CoreCompileInputs.cache
+C:\Users\Narendhar Banala\source\repos\FloatToBinaryAdd\bin\Debug\FloatToBinaryAdd.exe.config
+C:\Users\Narendhar Banala\source\repos\FloatToBinaryAdd\bin\Debug\FloatToBinaryAdd.exe
+C:\Users\Narendhar Banala\source\repos\FloatToBinaryAdd\bin\Debug\FloatToBinaryAdd.pdb
+C:\Users\Narendhar Banala\source\repos\FloatToBinaryAdd\obj\Debug\FloatToBinaryAdd.exe
+C:\Users\Narendhar Banala\source\repos\FloatToBinaryAdd\obj\Debug\FloatToBinaryAdd.pdb

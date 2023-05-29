@@ -13,17 +13,18 @@ namespace AdditionOfFloatNumbers
         /// <param name="input1"></param>
         /// <param name="input2"></param>
         /// <returns></returns>
-        public double Addition(string input1, string input2)
+        public double Addition(string input1, string input2,out int round)
         {
+
             string[] input1Array = input1.Split('.');
             string[] input2Array = input2.Split('.');
 
             int input1Integer = Convert.ToInt32(input1Array[0]);
             int input2Integer = Convert.ToInt32(input2Array[0]);
-            
+            round=Math.Max(input1Array.Length, input2Array.Length);
             float input1Fractional = float.Parse("0." + input1Array[1]);
             float input2Fractional = float.Parse("0." + input2Array[1]);
-
+            
             BinaryHandle binary = new BinaryHandle();
             string input1IntegerBinary =binary.IntToBinary(input1Integer);
             string input2IntegerBinary = binary.IntToBinary(input2Integer);
