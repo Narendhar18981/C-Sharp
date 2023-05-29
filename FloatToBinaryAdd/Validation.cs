@@ -20,6 +20,13 @@ namespace FloatToBinaryAdd
         public bool Is_ValidateForNonNumeric(string input)
         {
             int index = 0;
+            int count = 0;
+            while (index < input.Length)
+            {
+                if ((input[index++] == '.')) count++;
+                if (count > 1) return true;
+            }
+            index = 0;
             while(index< input.Length)
             {
                 if (!((input[index] >= '0' && input[index] <= '9') || input[index] == '.'))
