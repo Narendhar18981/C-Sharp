@@ -1,0 +1,6 @@
+C:\Users\Narendhar Banala\source\repos\LoginApplication\UserRegistration.BusinessModel\bin\Debug\UserRegistration.BusinessModel.dll
+C:\Users\Narendhar Banala\source\repos\LoginApplication\UserRegistration.BusinessModel\bin\Debug\UserRegistration.BusinessModel.pdb
+C:\Users\Narendhar Banala\source\repos\LoginApplication\UserRegistration.BusinessModel\obj\Debug\UserRegistration.BusinessModel.csproj.AssemblyReference.cache
+C:\Users\Narendhar Banala\source\repos\LoginApplication\UserRegistration.BusinessModel\obj\Debug\UserRegistration.BusinessModel.csproj.CoreCompileInputs.cache
+C:\Users\Narendhar Banala\source\repos\LoginApplication\UserRegistration.BusinessModel\obj\Debug\UserRegistration.BusinessModel.dll
+C:\Users\Narendhar Banala\source\repos\LoginApplication\UserRegistration.BusinessModel\obj\Debug\UserRegistration.BusinessModel.pdb
