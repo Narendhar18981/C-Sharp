@@ -1,0 +1,14 @@
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\bin\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.exe
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\bin\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.deps.json
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\bin\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.runtimeconfig.json
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\bin\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.dll
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\bin\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.pdb
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\obj\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\obj\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\obj\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.AssemblyInfo.cs
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\obj\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\obj\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.dll
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\obj\Debug\net8.0\refint\NotificationEventArgsWithDelegatesAndEvents.dll
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\obj\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.pdb
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\obj\Debug\net8.0\NotificationEventArgsWithDelegatesAndEvents.genruntimeconfig.cache
+C:\Users\Narendhar Banala\source\repos\NotificationEventArgsWithDelegatesAndEvents\obj\Debug\net8.0\ref\NotificationEventArgsWithDelegatesAndEvents.dll

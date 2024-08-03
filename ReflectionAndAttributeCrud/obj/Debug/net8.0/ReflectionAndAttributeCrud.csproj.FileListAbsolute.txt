@@ -1,0 +1,17 @@
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\ReflectionAndAttributeCrud.csproj.AssemblyReference.cache
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\ReflectionAndAttributeCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\ReflectionAndAttributeCrud.AssemblyInfoInputs.cache
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\ReflectionAndAttributeCrud.AssemblyInfo.cs
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\ReflectionAndAttributeCrud.csproj.CoreCompileInputs.cache
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\bin\Debug\net8.0\ReflectionAndAttributeCrud.exe
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\bin\Debug\net8.0\ReflectionAndAttributeCrud.deps.json
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\bin\Debug\net8.0\ReflectionAndAttributeCrud.runtimeconfig.json
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\bin\Debug\net8.0\ReflectionAndAttributeCrud.dll
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\bin\Debug\net8.0\ReflectionAndAttributeCrud.pdb
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\Reflecti.89DEE31A.Up2Date
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\ReflectionAndAttributeCrud.dll
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\refint\ReflectionAndAttributeCrud.dll
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\ReflectionAndAttributeCrud.pdb
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\ReflectionAndAttributeCrud.genruntimeconfig.cache
+C:\Users\Narendhar Banala\source\repos\ReflectionAndAttributeCrud\obj\Debug\net8.0\ref\ReflectionAndAttributeCrud.dll

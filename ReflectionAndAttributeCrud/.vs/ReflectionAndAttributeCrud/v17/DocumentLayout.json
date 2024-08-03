@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|c:\\users\\narendhar banala\\source\\repos\\reflectionandattributecrud\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|solutionrelative:data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|c:\\users\\narendhar banala\\source\\repos\\reflectionandattributecrud\\helper\\customserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|solutionrelative:helper\\customserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|c:\\users\\narendhar banala\\source\\repos\\reflectionandattributecrud\\helper\\objectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|solutionrelative:helper\\objectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|c:\\users\\narendhar banala\\source\\repos\\reflectionandattributecrud\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|c:\\users\\narendhar banala\\source\\repos\\reflectionandattributecrud\\models\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|solutionrelative:models\\employeedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|c:\\users\\narendhar banala\\source\\repos\\reflectionandattributecrud\\maptoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|solutionrelative:maptoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|c:\\users\\narendhar banala\\source\\repos\\reflectionandattributecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC33EC5-07CA-4CD7-98E0-35B57D415345}|ReflectionAndAttributeCrud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapToAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\MapToAttribute.cs",
+              "RelativeDocumentMoniker": "MapToAttribute.cs",
+              "ToolTip": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\MapToAttribute.cs",
+              "RelativeToolTip": "MapToAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:30:07.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Models\\EmployeeDetails.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDetails.cs",
+              "ToolTip": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Models\\EmployeeDetails.cs",
+              "RelativeToolTip": "Models\\EmployeeDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:29:18.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Helper\\CustomSerializer.cs",
+              "RelativeDocumentMoniker": "Helper\\CustomSerializer.cs",
+              "ToolTip": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Helper\\CustomSerializer.cs",
+              "RelativeToolTip": "Helper\\CustomSerializer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:24:56.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Data\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Data\\EmployeeRepository.cs",
+              "RelativeToolTip": "Data\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:24:06.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Helper\\ObjectMapper.cs",
+              "RelativeDocumentMoniker": "Helper\\ObjectMapper.cs",
+              "ToolTip": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Helper\\ObjectMapper.cs",
+              "RelativeToolTip": "Helper\\ObjectMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:22:46.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:21:10.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Narendhar Banala\\source\\repos\\ReflectionAndAttributeCrud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:18:28.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
