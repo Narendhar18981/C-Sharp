@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Support Tickets";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Ticket ID</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Open</td>
+            <td>
+                <a asp-area="SupportAgent" asp-controller="Ticket" asp-action="UpdateStatus" asp-route-id="1" asp-route-status="In Progress">Mark as In Progress</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
